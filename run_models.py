@@ -52,7 +52,7 @@ liquidFeS=eos.eosAndersonGrueneisen(M0=MFeS,p0=1E-5,T0=1650,
                                 V0=22.956500240757844,alpha0=11.9e-5,
                                 KT0=17.01901122392699,
                                 KTP0=5.92217679116356,
-                                deltaT=4.07505,kappa=1.4,
+                                deltaT=5.92217679116356,kappa=1.4,
                                 gamma0=1.3,q=0)
 
 liquidFeSi=eos.eosAndersonGrueneisen(M0=MFeSi,p0=1E-5,T0=1723,
